@@ -1,0 +1,31 @@
+body {
+    margin: 20px;
+    background-image: url(../asets/img/fondo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    margin-top: 30%;
+}
+
+.logo-druzh {
+    max-width: 100%;
+    height: auto;
+}
+
+.wpp-empresa {
+    text-align: center;
+    margin: 10px;
+}
+
+.version {
+    text-align: center;
+    margin-top: 20%;
+    color: white;
+}

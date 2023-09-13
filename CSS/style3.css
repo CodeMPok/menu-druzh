@@ -1,0 +1,41 @@
+body {
+    margin: 10px;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+
+.logo-druzh {
+    max-width: 100%;
+    height: auto;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.volver {
+    width: 10px;
+}
+
+.lista {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.item {
+    text-align: start;
+}
+
+.item2 {
+    text-align: end;
+}
+
+.version {
+    text-align: center;
+    margin-top: 20%;
+}
