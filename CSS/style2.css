@@ -59,5 +59,6 @@ body {
 .version {
     text-align: center;
     margin-top: 20%;
+    margin-bottom: 40px;
     color: white;
 }
