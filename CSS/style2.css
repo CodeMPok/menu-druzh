@@ -1,5 +1,4 @@
 body {
-    margin: 20px;
     background-image: url(../asets/img/fondo.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -31,6 +30,8 @@ body {
 
 .pedido {
     text-align: center;
+    margin: 20px;
+    width: 80%;
 }
 
 .img-menu {
