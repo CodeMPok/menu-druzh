@@ -1,0 +1,64 @@
+body {
+    background-image: url(../asets/img/fondo\ para\ indecisos.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    margin-top: 30%;
+}
+
+.indecisos{
+    max-width: 100%;
+    height: auto;
+}
+
+.wpp-empresa {
+    text-align: center;
+    margin: 10px;
+}
+
+.logo-menu {
+    max-width: 100%;
+    height: auto;
+}
+
+.pedido {
+    text-align: center;
+    margin: 20px;
+    width: 80%;
+}
+
+.img-menu {
+    width: 100%;
+    height: auto;    
+}
+
+.text-item {
+    text-align: center;
+}
+
+.item {
+    width: 70px;
+    max-width: 100%;
+    height: auto;
+
+}
+
+.categorias {
+    display: grid;
+    grid-template-columns: repeat(2);
+    gap: 10px;
+}
+
+.version {
+    text-align: center;
+    margin-top: 20%;
+    margin-bottom: 40px;
+    color: white;
+}
